@@ -1,0 +1,13 @@
+.fond {
+    background-color: rgb(45, 45, 45);
+    overflow-x: hidden;
+}
+.table {
+    font-size: 15px;
+    border-radius: 3px;
+    position: relative;
+    background-color: white;
+    margin:100px auto 0;
+    width: 1500px;
+    margin-bottom: 100px;
+}
